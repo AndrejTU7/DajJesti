@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DajJesti</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_napomena">Napomena</string>
+    <string name="order_add">Adding order</string>
+</resources>
